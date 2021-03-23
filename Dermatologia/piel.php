@@ -78,7 +78,7 @@ else if(isset($_REQUEST['radio1'])=="Gruesa" && ( ($_REQUEST['radio5'])=="enocas
 
 
         <footer>
-                <p><small>© 04-03-2021 Karla Jazmin Hernandez Corona.</small>
+                <p><small>© 23/03/2020 Gonzalez Rosales Briant Gustavo.</small>
                 <small> Todos los derechos reservados. </small></p>
             </footer>
        
