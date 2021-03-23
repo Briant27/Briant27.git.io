@@ -78,7 +78,7 @@ else if(isset($_REQUEST['radio1'])=="Gruesa" && ( ($_REQUEST['radio5'])=="enocas
 
 
         <footer>
-                <p><small>© 23/03/2020 Gonzalez Rosales Briant Gustavo.</small>
+		<p><small>© 23/03/2020 Gonzalez Rosales Briant Gustavo.</small></p>
                 <small> Todos los derechos reservados. </small></p>
             </footer>
        
